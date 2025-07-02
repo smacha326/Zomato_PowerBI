@@ -16,7 +16,7 @@ I picked **[your focus area, e.g. Customers]** to dive deeper into. I made a das
 
 Here’s a link to my Tableau dashboard where you can explore the data and insights:
 
-[👉 View Zomato Dashboard](https://public.tableau.com/app/profile/sairamya.macha/viz/Final_Project_17495725507520/Story1?publish=yes)
+[ View Zomato Dashboard](https://public.tableau.com/app/profile/sairamya.macha/viz/Final_Project_17495725507520/Story1?publish=yes)
 
 ---
 
